@@ -2,7 +2,7 @@
 
 April 2022 - I updated this script to Python 3 so it will work on MacOS Monterey 12.3+
 
-You will stil need to ship Python 3 to users, check out MacAdmins Python 3 release.
+You will still need to ship Python 3 to users, check out MacAdmins Python 3 release.
 
 
 Present users with a GUI to install printers on their Mac via Self Service (with Magic™)
